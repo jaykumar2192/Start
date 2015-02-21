@@ -1,0 +1,7 @@
+class First{
+
+    public stactic void main(String args[]){
+    
+          System.out.println("My First GitHub Program...Yeah !!");
+    }
+}
